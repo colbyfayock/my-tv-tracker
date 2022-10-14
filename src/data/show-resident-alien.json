@@ -1,0 +1,59 @@
+{
+  "id": 36947,
+  "url": "https://www.tvmaze.com/shows/36947/resident-alien",
+  "name": "Resident Alien",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Science-Fiction"
+  ],
+  "status": "Running",
+  "runtime": 60,
+  "averageRuntime": 60,
+  "premiered": "2021-01-27",
+  "ended": null,
+  "officialSite": "https://www.syfy.com/resident-alien",
+  "schedule": {
+    "time": "22:00",
+    "days": [
+      "Wednesday"
+    ]
+  },
+  "rating": {
+    "average": 7.9
+  },
+  "weight": 100,
+  "network": {
+    "id": 16,
+    "name": "Syfy",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": null
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 368166,
+    "imdb": "tt8690918"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/392/982009.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/982009.jpg"
+  },
+  "summary": "<p><b>Resident Alien</b> is a dark, twisted and comedic fish-out-of-water story that follows a crash-landed alien named Harry who, after taking on the identity of a small-town Colorado doctor, slowly begins to wrestle with the moral dilemma of his secret mission on Earth — ultimately asking the question, \"Are human beings worth saving?\"</p>",
+  "updated": 1664657565,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/36947"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/2369820"
+    }
+  }
+}

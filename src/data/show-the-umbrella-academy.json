@@ -1,0 +1,53 @@
+{
+  "id": 30386,
+  "url": "https://www.tvmaze.com/shows/30386/the-umbrella-academy",
+  "name": "The Umbrella Academy",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Action",
+    "Science-Fiction"
+  ],
+  "status": "Running",
+  "runtime": null,
+  "averageRuntime": 50,
+  "premiered": "2019-02-15",
+  "ended": null,
+  "officialSite": "https://www.netflix.com/title/80186863",
+  "schedule": {
+    "time": "",
+    "days": []
+  },
+  "rating": {
+    "average": 8.1
+  },
+  "weight": 99,
+  "network": null,
+  "webChannel": {
+    "id": 1,
+    "name": "Netflix",
+    "country": null,
+    "officialSite": "https://www.netflix.com/"
+  },
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 353764,
+    "imdb": "tt1312171"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/409/1023534.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/409/1023534.jpg"
+  },
+  "summary": "<p>On the same day in 1989, forty-three infants are inexplicably born to random, unconnected women who showed no signs of pregnancy the day before. Seven are adopted by Sir Reginald Hargreeves, a billionaire industrialist, who creates The Umbrella Academy and prepares his \"children\" to save the world. But not everything went according to plan. In their teenage years, the family fractured and the team disbanded. Now, the six surviving thirty-something members reunite upon the news of Hargreeve's passing. Luther, Diego, Allison, Klaus, Vanya and Number Five work together to solve a mystery surrounding their father's death. But the estranged family once again begins to come apart due to their divergent personalities and abilities, not to mention the imminent threat of a global apocalypse.</p>",
+  "updated": 1664180546,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/30386"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/2108819"
+    }
+  }
+}

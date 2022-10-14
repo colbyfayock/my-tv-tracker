@@ -1,0 +1,59 @@
+{
+  "id": 396,
+  "url": "https://www.tvmaze.com/shows/396/gravity-falls",
+  "name": "Gravity Falls",
+  "type": "Animation",
+  "language": "English",
+  "genres": [
+    "Adventure",
+    "Mystery",
+    "Supernatural"
+  ],
+  "status": "Ended",
+  "runtime": 30,
+  "averageRuntime": 30,
+  "premiered": "2012-06-15",
+  "ended": "2016-02-15",
+  "officialSite": null,
+  "schedule": {
+    "time": "19:00",
+    "days": [
+      "Monday"
+    ]
+  },
+  "rating": {
+    "average": 8.8
+  },
+  "weight": 96,
+  "network": {
+    "id": 25,
+    "name": "Disney XD",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": null
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": 31839,
+    "thetvdb": 259972,
+    "imdb": "tt1865718"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6140.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6140.jpg"
+  },
+  "summary": "<p>Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer with their great Uncle in the mysterious town of Gravity Falls, Oregon.</p>",
+  "updated": 1654193277,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/396"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/483406"
+    }
+  }
+}

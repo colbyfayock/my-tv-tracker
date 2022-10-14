@@ -1,0 +1,55 @@
+{
+  "id": 55138,
+  "url": "https://www.tvmaze.com/shows/55138/arcane",
+  "name": "Arcane",
+  "type": "Animation",
+  "language": "English",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "status": "Running",
+  "runtime": null,
+  "averageRuntime": 41,
+  "premiered": "2021-11-06",
+  "ended": null,
+  "officialSite": "https://www.netflix.com/title/81435684",
+  "schedule": {
+    "time": "",
+    "days": [
+      "Saturday"
+    ]
+  },
+  "rating": {
+    "average": 8.4
+  },
+  "weight": 98,
+  "network": null,
+  "webChannel": {
+    "id": 1,
+    "name": "Netflix",
+    "country": null,
+    "officialSite": "https://www.netflix.com/"
+  },
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 371028,
+    "imdb": "tt11126994"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/370/927068.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/370/927068.jpg"
+  },
+  "summary": "<p>Set in utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League champions — and the power that will tear them apart.</p>",
+  "updated": 1661093122,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/55138"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/2185608"
+    }
+  }
+}

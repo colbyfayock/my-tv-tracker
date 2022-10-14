@@ -1,0 +1,47 @@
+@import "@styles/settings/_settings";
+
+.shows,
+.stats {
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 2em;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  img {
+    width: 100%;
+  }
+
+}
+
+.showsTitle,
+.statsTitle {
+  font-size: 1.1em;
+  margin-top: .5em;
+}
+
+.stats {
+
+  text-align: center;
+
+  li {
+    background-color: $color-clerk-blue-dark;
+    border-radius: .2em;
+    padding: 2em;
+  }
+
+}
+
+.statsStat {
+  color: white;
+  font-size: 3em;
+  margin: 0;
+}
+
+.statsTitle {
+  color: $color-clerk-blue-light;
+  font-size: 1.4em;
+  margin: 1em 0 0;
+}

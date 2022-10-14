@@ -1,0 +1,55 @@
+{
+  "id": 38963,
+  "url": "https://www.tvmaze.com/shows/38963/the-mandalorian",
+  "name": "The Mandalorian",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science-Fiction"
+  ],
+  "status": "Running",
+  "runtime": null,
+  "averageRuntime": 40,
+  "premiered": "2019-11-12",
+  "ended": null,
+  "officialSite": "https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD/",
+  "schedule": {
+    "time": "",
+    "days": [
+      "Wednesday"
+    ]
+  },
+  "rating": {
+    "average": 8.6
+  },
+  "weight": 100,
+  "network": null,
+  "webChannel": {
+    "id": 287,
+    "name": "Disney+",
+    "country": null,
+    "officialSite": "https://www.disneyplus.com/"
+  },
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 361753,
+    "imdb": "tt8111088"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/273/683813.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/273/683813.jpg"
+  },
+  "summary": "<p>After the stories of Jango and Boba Fett, another warrior emerges in the Star Wars universe. <b>The Mandalorian</b> is set after the fall of the Empire and before the emergence of the First Order. We follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic...</p>",
+  "updated": 1662843619,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/38963"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/1949636"
+    }
+  }
+}

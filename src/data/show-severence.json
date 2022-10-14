@@ -1,0 +1,55 @@
+{
+  "id": 44933,
+  "url": "https://www.tvmaze.com/shows/44933/severance",
+  "name": "Severance",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Science-Fiction",
+    "Mystery"
+  ],
+  "status": "Running",
+  "runtime": null,
+  "averageRuntime": 48,
+  "premiered": "2022-02-18",
+  "ended": null,
+  "officialSite": "https://tv.apple.com/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+  "schedule": {
+    "time": "",
+    "days": [
+      "Friday"
+    ]
+  },
+  "rating": {
+    "average": 7.6
+  },
+  "weight": 99,
+  "network": null,
+  "webChannel": {
+    "id": 310,
+    "name": "Apple TV+",
+    "country": null,
+    "officialSite": "https://tv.apple.com/"
+  },
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 371980,
+    "imdb": "tt11280740"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/384/960582.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960582.jpg"
+  },
+  "summary": "<p>Adam Scott leads a team at Lumon Industries, whose employees have undergone a severance procedure, which surgically divides their memories between their work and personal lives. This daring experiment in \"work-life balance\" is called into question as Mark finds himself at the center of an unraveling mystery that will force him to confront the true nature of his work… and of himself.</p>",
+  "updated": 1656900522,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/44933"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/2302265"
+    }
+  }
+}

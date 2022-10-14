@@ -1,0 +1,55 @@
+{
+  "id": 41007,
+  "url": "https://www.tvmaze.com/shows/41007/loki",
+  "name": "Loki",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science-Fiction"
+  ],
+  "status": "Running",
+  "runtime": null,
+  "averageRuntime": 48,
+  "premiered": "2021-06-09",
+  "ended": null,
+  "officialSite": "https://disneyplus.com/series/loki/6pARMvILBGzF",
+  "schedule": {
+    "time": "",
+    "days": [
+      "Wednesday"
+    ]
+  },
+  "rating": {
+    "average": 8.3
+  },
+  "weight": 99,
+  "network": null,
+  "webChannel": {
+    "id": 287,
+    "name": "Disney+",
+    "country": null,
+    "officialSite": "https://www.disneyplus.com/"
+  },
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 362472,
+    "imdb": "tt9140554"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/320/801227.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/320/801227.jpg"
+  },
+  "summary": "<p><b>Loki</b> follows the trickster and shape-shifter god who pops up throughout human history as an unlikely influencer on historical events.</p>",
+  "updated": 1658641181,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/41007"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/2095478"
+    }
+  }
+}

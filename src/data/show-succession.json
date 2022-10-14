@@ -1,0 +1,58 @@
+{
+  "id": 23470,
+  "url": "https://www.tvmaze.com/shows/23470/succession",
+  "name": "Succession",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "status": "Running",
+  "runtime": 60,
+  "averageRuntime": 61,
+  "premiered": "2018-06-03",
+  "ended": null,
+  "officialSite": "https://www.hbo.com/succession",
+  "schedule": {
+    "time": "21:00",
+    "days": [
+      "Sunday"
+    ]
+  },
+  "rating": {
+    "average": 7.4
+  },
+  "weight": 99,
+  "network": {
+    "id": 8,
+    "name": "HBO",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": "https://www.hbo.com/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 338186,
+    "imdb": "tt7660850"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/392/982394.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/982394.jpg"
+  },
+  "summary": "<p><b>Succession </b>follows the saga of the Roys, a fictional, American global-media family that is not only rich and powerful but also powerfully dysfunctional. The drama will explore family loyalty, international business and the perils of power in the 21st century.</p><p>Power, politics, money...it's all in the family in this provocative, funny series about a highly dysfunctional dynasty. When Logan Roy, CEO of one of the world's largest media and entertainment conglomerates, considers retirement, each of his four grown children follows a personal agenda that doesn't always sync with those of their siblings--or of their father.</p>",
+  "updated": 1662107024,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/23470"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/2215077"
+    }
+  }
+}
