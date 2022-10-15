@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { SignedIn, SignedOut, UserButton } from '@clerk/nextjs';
 
 import Container from '@components/Container';
 
@@ -16,13 +17,20 @@ const Header = () => {
           </Link>
         </p>
         <ul className={styles.headerLinks}>
-          <li>
-            <Link href="/dashboard">
-              <a>
-                Login
-              </a>
-            </Link>
-          </li>
+          <SignedOut>
+            <li>
+              <Link href="/dashboard">
+                <a>
+                  Login
+                </a>
+              </Link>
+            </li>
+          </SignedOut>
+          <SignedIn>
+            <li>
+              <UserButton />
+            </li>
+          </SignedIn>
         </ul>
       </Container>
     </header>
