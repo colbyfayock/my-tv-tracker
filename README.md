@@ -1,4 +1,4 @@
-# Custom Image Placeholder Service with Cloudinary & Netlify Serverless Functions
+# Demo
 
 Demo for tutorial
 
