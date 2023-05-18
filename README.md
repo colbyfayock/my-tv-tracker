@@ -6,6 +6,8 @@ Demo for tutorial [How to Add Passwords Authentication and Login in Next.js with
 
 📺 Video: https://www.youtube.com/watch?v=1n9N5k8gsDw
 
+🚀 Demo: https://tv-tracker.vercel.app/
+
 ## More tutorials and walkthroughs
 
 🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
